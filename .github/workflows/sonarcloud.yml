@@ -55,7 +55,7 @@ jobs:
           args:
             # Unique keys of your project and organization. You can find them in SonarCloud > Information (bottom-left menu)
             # mandatory
-            -Dsonar.projectKey=GinaSoray_Basic-Java-Maven-main
+            -Dsonar.projectKey=GinaSoraya_Basic-Java-Maven-main
             -Dsonar.organization=GinaSoray
             # Comma-separated paths to directories containing main source files.
             #-Dsonar.sources= # optional, default is project base directory
